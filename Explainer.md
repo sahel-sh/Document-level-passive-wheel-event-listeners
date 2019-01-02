@@ -16,3 +16,4 @@ will be equivalent to:
 ```javascript
 window.addEventListener("wheel", func, {passive: true} );
 ```
+For further details please check [touch](https://github.com/WICG/interventions/issues/35) and [wheel](https://github.com/WICG/interventions/issues/64) document level passive by default event listeners interventions in WICG.
